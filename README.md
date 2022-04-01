@@ -1,5 +1,4 @@
-
-# About the Project
+## About the Project
 
 This project is an ecommerce web application to buy and sell products. Customers can buy product and Vendor can list their products.
 
@@ -8,7 +7,8 @@ It has three user roles - Customer, Vendor and Admin.
 ## Features and Functionalities
 
 **Customer Features**
-  - User Signup and Login
+
+  - User Signup and Login page
   - Products List on Homepage by category and subCategory
   - Add products to cart, update quantity of products in cart and clear cart.
   - Checkout single product.
@@ -17,36 +17,33 @@ It has three user roles - Customer, Vendor and Admin.
   - Profile page for showing user details like name , email, address, and reviews.
   - Add, update and delete reviews
   - Filter orders by order Status
- 
-Vendors can add the products and check the status of orders placed having their products. 
-Admin can add the vendors using their email and view the product list. 
-Profile Page is also available for every role in the application. 
 
 
-- Features For Customers
+![User Feature Demo](https://user-images.githubusercontent.com/40385854/161281736-a35835b1-5e0c-4b04-81fa-bfea99cb76bb.gif)
 
 
+**Vendor Features**
+  - Vendor Login page
+  - Vendors can add, update and delete their products.
+  - Vendors track the orders of their products.
 
-
-
-
-
-
-
-
+**Admin Features**
+  - Admin Login page
+  - Admin have the list of all the customers and vendors.
+  - Admin can add the vendor using email of the vendor.
 
 
 
+## Repository links for microservices
 
+product service repo - https://github.com/Ankush-0694/product_service
 
-# Repository links for microservices
+order service repo - https://github.com/Ankush-0694/order_service
 
-### product service repo - https://github.com/Ankush-0694/product_service
+user service repo - https://github.com/Ankush-0694/user_service
 
-### order service repo - https://github.com/Ankush-0694/order_service
+api gateway repo - https://github.com/Ankush-0694/api_gateway 
 
-### user service repo - https://github.com/Ankush-0694/user_service
+## Repository links for Frontend
 
-### api gateway repo - https://github.com/Ankush-0694/api_gateway 
-
-### React Frontend repo - https://github.com/Ankush-0694/ecommerce_frontend
+React Frontend - https://github.com/Ankush-0694/ecommerce_frontend
