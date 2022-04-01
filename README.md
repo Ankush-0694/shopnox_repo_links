@@ -1,3 +1,12 @@
+
+## About the Project
+
+> This project is a ecommerce web application to sell and buy products.Customers can buy product and vendor can list their products.
+
+
+
+
+
 - Features For Customers
   - One
   - One
