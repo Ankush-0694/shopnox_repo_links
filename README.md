@@ -20,7 +20,7 @@ It has three user roles - Customer, Vendor and Admin.
   - Filter orders by order Status
 
 
-![User Feature Demo](https://user-images.githubusercontent.com/40385854/161281736-a35835b1-5e0c-4b04-81fa-bfea99cb76bb.gif)
+![Customer Features Demo](https://user-images.githubusercontent.com/40385854/161281736-a35835b1-5e0c-4b04-81fa-bfea99cb76bb.gif)
 
 
 **Vendor Features**
@@ -28,12 +28,15 @@ It has three user roles - Customer, Vendor and Admin.
   - Vendors can add, update and delete their products.
   - Vendors track the orders of their products.
 
+![Vendor Features Demo](https://user-images.githubusercontent.com/40385854/161288686-da50c661-ede4-4aca-8741-27cbb98a5a9e.gif)
+
+
 **Admin Features**
   - Admin Login page
   - Admin have the list of all the customers and vendors.
   - Admin can add the vendor using email of the vendor.
 
-![admin Feature Demo](https://user-images.githubusercontent.com/40385854/161284378-43deb15c-c17b-4515-bac4-41b2913f11dd.gif)
+![admin Features Demo](https://user-images.githubusercontent.com/40385854/161284378-43deb15c-c17b-4515-bac4-41b2913f11dd.gif)
 
 
 
