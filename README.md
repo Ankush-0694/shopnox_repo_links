@@ -1,3 +1,4 @@
+
 ## About the Project
 
 This project is an ecommerce web application to buy and sell products. Customers can buy product and Vendor can list their products.
@@ -31,6 +32,8 @@ It has three user roles - Customer, Vendor and Admin.
   - Admin Login page
   - Admin have the list of all the customers and vendors.
   - Admin can add the vendor using email of the vendor.
+
+![admin Feature Demo](https://user-images.githubusercontent.com/40385854/161284378-43deb15c-c17b-4515-bac4-41b2913f11dd.gif)
 
 
 
