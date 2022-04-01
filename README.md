@@ -1,4 +1,4 @@
-# shopnox_repo_links
+# repo_links
 
 ### product service repo - https://github.com/Ankush-0694/product_service
 
